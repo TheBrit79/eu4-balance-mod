@@ -209,7 +209,7 @@ chillon_castle = {
 
 		}
 		country_modifiers = {
-			mercenary_cost = -0.05
+			merc_maintenance_modifier = -0.05
 			garrison_size = 0.1
 		}
 		on_upgraded = {
@@ -230,7 +230,7 @@ chillon_castle = {
 			
 		}
 		country_modifiers = {
-			mercenary_cost = -0.075
+			merc_maintenance_modifier = -0.05
 			garrison_size = 0.15
 		}
 		on_upgraded = {
@@ -251,7 +251,7 @@ chillon_castle = {
 			
 		}
 		country_modifiers = {
-			mercenary_cost = -0.1
+			merc_maintenance_modifier = -0.1
 			garrison_size = 0.25
 		}
 		on_upgraded = {
