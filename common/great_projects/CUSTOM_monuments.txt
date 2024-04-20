@@ -115,7 +115,7 @@ erlacherhof = {
 			factor = 2500
 		}
 		province_modifiers = {
-			#local_development_cost_modifier = -0.05
+			local_development_cost_modifier = -0.05
 		}
 		area_modifier = {
 		}
@@ -136,7 +136,7 @@ erlacherhof = {
 			factor = 5000
 		}
 		province_modifiers = {
-			#local_development_cost_modifier = -0.1
+			local_development_cost_modifier = -0.1
 		}
 		area_modifier = {
 		}
