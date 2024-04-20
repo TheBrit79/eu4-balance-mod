@@ -1,0 +1,13 @@
+spriteTypes = {
+	
+	spriteType = {
+		name = "GFX_great_project_erlacherhof"
+		texturefile = "gfx/interface/great_projects/great_project_buda_castle.dds"
+	}
+	spriteType = {
+		name = "GFX_great_project_chillon_castle"
+		texturefile = "gfx/interface/great_projects/great_project_malbork_castle.dds"
+	}
+
+}
+	
