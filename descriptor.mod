@@ -3,5 +3,6 @@ tags={
 	"Balance"
 	"Gameplay"
 }
-name="eu4 balance mod"
+name="Antimeta Balance Mod"
 supported_version="1.36.2"
+remote_file_id="3227693339"
