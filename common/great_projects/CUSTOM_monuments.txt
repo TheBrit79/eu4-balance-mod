@@ -33,6 +33,7 @@ erlacherhof = {
 
 	can_use_modifiers_trigger = {
 		owner = {
+			government = republic
 			OR = {
 				tag = SWI
 				AND = {
@@ -45,25 +46,13 @@ erlacherhof = {
 
 	can_upgrade_trigger = {
 		FROM = {
+			government = republic
 			OR = {
 				tag = SWI
 				AND = {
 					culture_group = germanic
 					primary_culture = swiss
 				}
-			}
-		}
-		if = {
-			limit = { has_dlc = "Common Sense" }
-			FROM = {
-				has_parliament = yes
-				government = republic
-			}
-		}
-		else = {
-			FROM = {
-				government = republic
-				has_reform = parliamentary_reform
 			}
 		}
 	}
